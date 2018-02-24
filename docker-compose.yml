@@ -2,5 +2,5 @@ version: "3"
 
 services:
   mybuild:
-    image: mssql-tools_docker:1.0
+    image: naumanbadar/mssql-tools_docker:1.0
     build: .
